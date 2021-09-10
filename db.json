@@ -1,0 +1,22 @@
+{
+  "screams": [
+    {
+      "screamId": "1rU69PyT0VN081NMRrGd",
+      "body": "Hello User 1",
+      "userHandle": "user1",
+      "createdAt": "2019-03-21T15:42:16.856Z",
+      "commentCount": 0,
+      "likeCount": 0,
+      "userImage": "http://localhost:5000/screams/image1.png"
+    },
+    {
+      "screamId": "6rU69PyT0VN081NMRrGd",
+      "body": "Hello User 2",
+      "userHandle": "user2",
+      "createdAt": "2019-04-21T15:42:16.856Z",
+      "commentCount": 0,
+      "likeCount": 0,
+      "userImage": "http://localhost:5000/screams/image2.png"
+    }
+  ]
+}
